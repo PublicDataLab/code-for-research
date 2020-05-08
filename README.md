@@ -1,6 +1,6 @@
 # Code for Research
 
-A collaborative space for the creation, repurposing and use of code in the context of social and cultural research.
+A collaborative space for the creation, repurposing and use of code in the context of social and cultural research - with a particular focus on science and technology studies, internet studies, new media studies, platform studies, digital methods, digital sociology, digital humanities, and associated fields.
 
 ## Need help?
 
