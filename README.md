@@ -1,6 +1,6 @@
-# Social Scientists Who Code
+# Code for Research
 
-A community repository for social scientists who happen to develop scripts, programs etc.
+A collaborative space for the creation, repurposing and use of code in the context of social and cultural research.
 
 ## Need help?
 
